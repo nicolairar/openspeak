@@ -1,4 +1,4 @@
-# 🗨️ OpenSpeak [![Flutter CI](https://github.com/nicolairar/openspeak/actions/workflows/dart.yml/badge.svg)](https://github.com/nicolairar/openspeak/actions)
+# 🗨️ OpenSpeak [![Flutter CI](https://github.com/nicolairar/openspeak/actions/workflows/flutter.yml/badge.svg)](https://github.com/nicolairar/openspeak/actions/workflows/flutter.yml)
 
 
 OpenSpeak is a modern chat and voice platform inspired by Discord and TeamSpeak —  
